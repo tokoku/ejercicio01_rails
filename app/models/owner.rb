@@ -1,9 +1,9 @@
 class Owner
   def name
-    name = 'Gustavo de la cruz Tovar'
+    name = 'Jorge Garza Fortunat'
   end
   def birthdate
-    birthdate = Date.new(1971,12,9)
+    birthdate = Date.new(1989,03,14)
   end
   def countdown
     today = Date.today
